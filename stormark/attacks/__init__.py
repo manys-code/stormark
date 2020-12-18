@@ -1,0 +1,1 @@
+from stormark.attacks.attack import Attack
